@@ -24,8 +24,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run this Project
 
+git clone [MovieApp](https://github.com/Kingsley-Opara/MovieApp.git)
+
 ```
-- git clone <a href='https://github.com/Kingsley-Opara/MovieApp.git'>MovieApp</a>
+
 - cd movies-app
 
 ```
